@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3ba417ce-8165-464d-9f29-daf23da1b2bc",
+    "name": "Albus Dumbledore's forceful spell",
+    "incantation": null,
+    "effect": "Great force",
+    "canBeVerbal": null,
+    "type": "Spell",
+    "light": "Transparent",
+    "creator": null
+  },
+  {
+    "id": "0cc4ee69-4aa8-49e1-bb89-125793ed2e95",
+    "name": "False memory spell",
+    "incantation": null,
+    "effect": "Implants a false memory in the victim's mind",
+    "canBeVerbal": null,
+    "type": "Spell",
+    "light": "None",
+    "creator": "Mnemone Radford c. 1900s (possibly)"
+  },
+  {
+    "id": "5984fe39-c7e6-4ff9-ad8d-35cca813a239",
+    "name": "Shield penetration spell",
+    "incantation": null,
+    "effect": "Used to break down magical shields",
+    "canBeVerbal": null,
+    "type": "Spell",
+    "light": "BlueishWhite",
+    "creator": null
+  },
+  {
+    "id": "e93e47e2-fcae-4c8c-ad0e-f6f4804b04b2",
+    "name": "Shooting spell",
+    "incantation": null,
+    "effect": "Small explosion with a gunshot-sound",
+    "canBeVerbal": null,
+    "type": "Spell",
+    "light": "Transparent",
+    "creator": null
+  }
+]
